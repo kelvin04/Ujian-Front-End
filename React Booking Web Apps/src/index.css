@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#left {
+  text-align: left;
+}
+
+#margin-left {
+  margin-left: 250px;
+}
+
+#margin-bottom {
+  margin-bottom: 50px;
+}
+
+#background-color-grey {
+  background-color: rgb(241, 241, 241);
+}
+
+#background-color-krem {
+  background-color: rgb(241, 239, 172);
+}

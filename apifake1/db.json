@@ -1,0 +1,266 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Hacksaw Ridge",
+      "description": "Best Movie based on true story",
+      "url": "https://www.imdb.com/title/tt2119532/",
+      "image": "http://teatimewithnesli.com/wp-content/uploads/2016/11/HackSaw-Ridge-Movie-Review.jpg",
+      "schedule1": "Pukul 15.00",
+      "schedule2": "Pukul 18.00"
+    },
+    {
+      "id": 2,
+      "title": "Spider-Man: Homecoming",
+      "description": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+      "url": "https://www.imdb.com/title/tt2250912/",
+      "image": "http://getwallpapers.com/wallpaper/full/f/b/f/1123371-cool-spider-man-homecoming-wallpapers-1920x1080-picture.jpg",
+      "schedule1": "Pukul 14.00",
+      "schedule2": "Pukul 17.00"
+    },
+    {
+      "id": 3,
+      "title": "Avengers: Infinity War",
+      "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "url": "https://www.imdb.com/title/tt4154756/?ref_=nv_sr_2",
+      "image": "https://images.alphacoders.com/909/thumb-1920-909872.jpg",
+      "schedule1": "Pukul 13.00",
+      "schedule2": "Pukul 16.00"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Baron",
+      "email": "baron@gmail.com",
+      "password": "test123",
+      "bookingStatus": [
+        "A1",
+        "B4",
+        "C3"
+      ]
+    },
+    {
+      "id": 2,
+      "username": "Kelvin",
+      "email": "kelvinn@gmail.com",
+      "password": "0987"
+    },
+    {
+      "username": "LOL",
+      "email": "LOLOL@yahoo.com",
+      "password": "12345",
+      "id": "Pqryqsw"
+    }
+  ],
+  "equalizer15:00": [
+    {
+      "id": "A1",
+      "row": "A",
+      "number": "1",
+      "schedule": "15:00",
+      "price": "Rp. 50.000,-",
+      "status": "available"
+    },
+    {
+      "id": "A2",
+      "row": "A",
+      "number": "2",
+      "schedule": "15:00",
+      "price": "Rp. 50.000,-",
+      "status": "available"
+    },
+    {
+      "id": "A3",
+      "row": "A",
+      "number": "3",
+      "schedule": "15:00",
+      "price": "Rp. 50.000,-",
+      "status": "available"
+    },
+    {
+      "id": "A4",
+      "row": "A",
+      "number": "4",
+      "schedule": "15:00",
+      "price": "Rp. 50.000,-",
+      "status": "available"
+    },
+    {
+      "id": "B1",
+      "row": "B",
+      "number": "1",
+      "schedule": "15:00",
+      "price": "Rp. 50.000,-",
+      "status": "available"
+    },
+    {
+      "id": "B2",
+      "row": "B",
+      "number": "2",
+      "schedule": "15:00",
+      "price": "Rp. 50.000,-",
+      "status": "available"
+    },
+    {
+      "id": "B3",
+      "row": "B",
+      "number": "3",
+      "schedule": "15:00",
+      "price": "Rp. 50.000,-",
+      "status": "available"
+    },
+    {
+      "id": "B4",
+      "row": "B",
+      "number": "4",
+      "schedule": "15:00",
+      "price": "Rp. 50.000,-",
+      "status": "available"
+    },
+    {
+      "id": "C1",
+      "row": "C",
+      "number": "1",
+      "schedule": "15:00",
+      "price": "Rp. 50.000,-",
+      "status": "available"
+    },
+    {
+      "id": "C2",
+      "row": "C",
+      "number": "2",
+      "schedule": "15:00",
+      "price": "Rp. 50.000,-",
+      "status": "available"
+    },
+    {
+      "id": "C3",
+      "row": "C",
+      "number": "3",
+      "schedule": "15:00",
+      "price": "Rp. 50.000,-",
+      "status": "available"
+    },
+    {
+      "id": "C4",
+      "row": "C",
+      "number": "4",
+      "schedule": "15:00",
+      "price": "Rp. 50.000,-",
+      "status": "available"
+    }
+  ],
+  "equalizer20:00": [
+    {
+      "id": "A1",
+      "row": "A",
+      "number": "1",
+      "schedule": "20:00",
+      "price": "Rp. 25.000,-"
+    },
+    {
+      "id": "A2",
+      "row": "A",
+      "number": "2",
+      "schedule": "20:00",
+      "price": "Rp. 25.000,-"
+    },
+    {
+      "id": 3,
+      "row": "A",
+      "number": "3",
+      "schedule": "20:00",
+      "price": "Rp. 25.000,-"
+    },
+    {
+      "id": 4,
+      "row": "A",
+      "number": "4",
+      "schedule": "20:00",
+      "price": "Rp. 25.000,-"
+    },
+    {
+      "id": 5,
+      "row": "B",
+      "number": "1",
+      "schedule": "20:00",
+      "price": "Rp. 25.000,-"
+    },
+    {
+      "id": 6,
+      "row": "B",
+      "number": "2",
+      "schedule": "20:00",
+      "price": "Rp. 25.000,-"
+    },
+    {
+      "id": 7,
+      "row": "B",
+      "number": "3",
+      "schedule": "20:00",
+      "price": "Rp. 25.000,-"
+    },
+    {
+      "id": 8,
+      "row": "B",
+      "number": "4",
+      "schedule": "20:00",
+      "price": "Rp. 25.000,-"
+    },
+    {
+      "id": 9,
+      "row": "C",
+      "number": "1",
+      "schedule": "20:00",
+      "price": "Rp. 25.000,-"
+    },
+    {
+      "id": 10,
+      "row": "C",
+      "number": "2",
+      "schedule": "20:00",
+      "price": "Rp. 25.000,-"
+    },
+    {
+      "id": 11,
+      "row": "C",
+      "number": "3",
+      "schedule": "20:00",
+      "price": "Rp. 25.000,-"
+    },
+    {
+      "id": 12,
+      "row": "C",
+      "number": "4",
+      "schedule": "20:00",
+      "price": "Rp. 25.000,-"
+    }
+  ],
+  "kursi": [
+    {
+      "status": "booked",
+      "id": "kursi1"
+    },
+    {
+      "status": "booked",
+      "id": "kursi2"
+    },
+    {
+      "status": "free",
+      "id": "kursi3"
+    },
+    {
+      "status": "free",
+      "id": "kursi4"
+    },
+    {
+      "status": "free",
+      "id": "kursi5"
+    },
+    {
+      "status": "booked",
+      "id": "kursi6"
+    }
+  ]
+}

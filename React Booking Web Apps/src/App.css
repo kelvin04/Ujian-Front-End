@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.kucing .merdeka img {
+  max-height: 650px;  /* change this to whatever you want */
+  width: auto;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+#square {
+  height: 25px;
+  width: 1170px;
+  background-color: rgb(59, 248, 74);
+}
+
+#padding-top-8px{
+  padding-top: 8px;
+}
